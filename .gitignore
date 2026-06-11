@@ -1,0 +1,7 @@
+pretrained_model/
+
+__pycache__/
+*.pyc
+.DS_Store
+mintty.exe.stackdump
+data/feature/train_orainal_all_features.csv
